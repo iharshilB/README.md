@@ -2,7 +2,7 @@
 title: MacroAnalysis Bot
 emoji: 🔬
 colorFrom: blue
-colorTo: slate
+colorTo: gray
 sdk: docker
 app_port: 7860
 pinned: false
